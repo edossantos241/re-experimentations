@@ -42,7 +42,7 @@ Autres blocs* :
 
 ### Internat Block Diagram
 
-![alt text](https://github.com/edossantos241/re-experimentations/blob/master/img/InternatBlockDiagramAlfred.PNG)
+![alt text](https://github.com/edossantos241/re-experimentations/blob/master/img/InternalBlockDiagramAlfred.PNG)
 
 Description : Ce diagramme représente le bloc "Alfred" et son contenu. On y retrouve les blocs qui le composent ainsi qu'un port d'alimentation électrique.
 

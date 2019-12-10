@@ -53,3 +53,9 @@ Description : Ce diagramme représente le bloc "Alfred" et son contenu. On y ret
 ![alt text](https://github.com/edossantos241/re-experimentations/blob/master/img/SequenceDiagram.PNG)
 
 Description : Ce diagramme représente les différentes interractions entre les acteurs du système. On y retrouve l'ensemble des exigences décritent dans le diagramme des cas d'utilisation.
+
+### State Machine Diagram
+
+![alt text](https://github.com/edossantos241/re-experimentations/blob/master/img/StateMachineDiagram.PNG)
+
+Description : Avec ce diagramme, on a voulu représenter les différents états par lesquels le système (Alfred) passe lors d'un contrôle de qualité de l'air lancé par Batman. Le point d'entrée est la demande d'affichage de la qualité de l'air et le point de sortie est l'affichage de la qualité de l'air.
